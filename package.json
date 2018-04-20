@@ -1,17 +1,17 @@
 {
   "name": "node-express-sample",
   "version": "1.0.0",
-  "description": "Sample Express.js application for purpose of building a REST API",
+  "description": "A practice project to create a photo-album with Node.js & Express",
   "repository": {
     "type": "git",
-    "url": "git@github.com/jeffandersen/node-express-sample.git"
+    "url": "git@github.com/CarlosTrapet/cheatstagram.git"
   },
-  "author": "Jeff Andersen <@jeffandersen>",
+  "author": "Carlos Trapet",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jeffandersen/node-express-sample/issues"
+    "url": "https://github.com/CarlosTrapet/cheatstagram/issues"
   },
-  "homepage": "https://github.com/jeffandersen/node-express-sample",
+  "homepage": "https://github.com/CarlosTrapet/cheatstagram",
   "dependencies": {
     "body-parser": "1.10.2",
     "express": "4.11.1",
